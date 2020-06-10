@@ -29,6 +29,7 @@ header {
   left: 0;
   width: 100%;
   box-shadow: 0 3px 3px #d2ad88;
+  z-index: 1;
 }
 
 #navbar {
